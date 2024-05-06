@@ -1,15 +1,3 @@
-/** Auteur: Maxime HAVGOUDOUKIAN
- *
- *  Nom Projet: Asteroid
- *
- *  Date de création: 09/04/2021
- *  Dernière modification: 12/04/2021
- *
- *  Contient l'ensemble des méthodes diverses indispensables pour la génération aléatoire
- *  et la manipulation des VertexArray et des formes (notamment rotationPts() pour la rotation d'un objet)
- *
-**/
-
 #ifndef INLINE_H_INCLUDED
 #define INLINE_H_INCLUDED
 
